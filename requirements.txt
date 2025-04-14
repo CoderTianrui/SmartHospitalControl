@@ -1,0 +1,5 @@
+pygame==2.5.2
+SpeechRecognition==3.10.0
+pyaudio
+requests>=2.32.3
+python-dotenv==1.0.0 
