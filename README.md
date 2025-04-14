@@ -19,12 +19,6 @@ A Pygame-based smart hospital room control system interface with integrated voic
 pip install -r requirements.txt
 ```
 
-## Environment Configuration
-
-1. Create a `.env` file and add your DeepSeek API key:
-```
-DEEPSEEK_API_KEY=your_api_key_here
-```
 
 ## Running the Program
 
