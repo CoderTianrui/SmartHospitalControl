@@ -29,7 +29,6 @@ python hospital_room_control.py
 ## Usage Instructions
 
 1. Manual Control:
-   - Use sliders to adjust parameters
    - Real-time value display
 
 2. Voice Control:
@@ -41,4 +40,3 @@ python hospital_room_control.py
 
 - Ensure microphone is properly installed
 - Stable internet connection required for voice recognition
-- Make sure DeepSeek API key is properly configured 
