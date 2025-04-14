@@ -88,9 +88,9 @@ python hospital_room_control.py
 
 ## User Guide
 
-## Voice Commands Available
+### Voice Commands Available
 
-### Temperature Control
+#### Temperature Control
 - "Set temperature to 22 degrees"
 - "Increase temperature by 2 degrees"
 - "Decrease temperature by 3 degrees"
@@ -99,44 +99,44 @@ python hospital_room_control.py
 - "Make it warmer"
 - "Make it cooler"
 
-### Humidity Control
+#### Humidity Control
 - "Set humidity to 50 percent"
 - "Increase humidity by 10 percent"
 - "Decrease humidity by 5 percent"
 - "It's too dry in here" (will increase to optimal humidity)
 - "It's too humid" (will decrease to optimal humidity)
 
-### Lighting Control
+#### Lighting Control
 - "Set light to 60 percent"
 - "Increase brightness by 20 percent" 
 - "Reduce light by 15 percent"
 - "It's too bright in here" (will dim to optimal level)
 - "It's too dark" (will brighten to optimal level)
 
-### CO2 Level Control
+#### CO2 Level Control
 - "Set CO2 to 500 ppm"
 - "Increase CO2 by 50 ppm"
 - "Decrease CO2 by 100 ppm"
 
-## Button Controls
+### Button Controls
 
-### Voice Control Buttons
+#### Voice Control Buttons
 - **Voice Control**: Press to start voice recognition
 - **Switch Mic**: Cycle through available microphones
 - **Cancel**: Stop the current voice recognition session
 
-### Nurse Call Buttons
+#### Nurse Call Buttons
 - **Call Nurse**: Request nurse assistance (non-emergency)
 - **Emergency**: Call for urgent medical assistance
 
-## Optimal Ranges
+### Optimal Ranges
 - Temperature: 21-24°C
 - Humidity: 40-60%
 - Light: 40-70%
 - CO2: 400-600 ppm
 
-## Notes
+### Notes
 - If you request a value outside the allowed range (e.g., "Set temperature to 35 degrees"), 
   the system will display a warning and maintain the current setting.
 - The optimal range indicators are shown in green on each slider.
-- For best voice recognition results, speak clearly and at a normal volume. 
+- For best voice recognition results, speak clearly and at a normal volume.
